@@ -1,0 +1,6 @@
+@ElasticSearch_SerilogProject_HostAddress = http://localhost:5267
+
+GET {{ElasticSearch_SerilogProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
